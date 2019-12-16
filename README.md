@@ -2,5 +2,6 @@
 
 # La Comanda - EQUIPO
 
-Registrate en:https://forms.gle/72zbcmyroAwucDmy8
-TP_Final_PPS_Mecon
+https://github.com/madourizzi/TP_Final_PPS_Mecon/
+
+https://github.com/marianomadou/PPS_Entrega
